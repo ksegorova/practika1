@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@font-face {
+    font-family: "Red Hat Text";
+    src: local("Red Hat Text"),
+      local("Red Hat Text"),
+      url("/font/RedHatTextMedium.ttf") format("ttf"),
+      url('/font/RedHatTextMedium.ttf') format('eot');
+  }
+LEMONADE{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 1440px;
+    height: 1024px;
+    top: 2590px;
+    left: -2276px;
+    gap: 0px;
+    opacity: 0px;
+    animation-duration: 0ms;
+    background-image: url('picture/fon.png'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 170px;
+    font-family: "Red Hat Text";
+}
+.FRESH{
+    font-family: Raleway;
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 37.57px;
+    letter-spacing: -0.145em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    -webkit-text-stroke: 1px solid #000000;
+    color: #FFFFFF;  
+}
+.HeaderText{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 70px;
+}
+.ShopNow{
+    font-family: Red Hat Text;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 15.26px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #0028F8;   
+    text-decoration: underline;
+}
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 30px;
+}
+.Signup{
+    width: 123px;
+    height: 36px;
+    top: 36px;
+    left: 1259px;
+    gap: 0px;
+    border-radius: 20px;
+    border: 1px solid #fff;
+    background-color: #ffd645;
+    color: #fff;
+    opacity: 0px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.48px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+LEMON{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 250px;
+}
+.arrow{
+    width: 42px;
+    height: 42px;
+    top: 524px;
+    left: 1328px;
+    gap: 0px;
+    border: 0.25px;
+    opacity: 0px;
+    border: 0.25px solid #000000;
+    background: #ffd645;       
+}
+.foto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.LearnMore{
+    width: 189px;
+    height: 64px;
+    top: 775px;
+    left: 1028px;
+    gap: 0px;
+    border: 1px;
+    opacity: 0px;
+    border: 1px solid #002AFF;
+    background: #ffd645;
+    color: #002AFF;
+    text-align: center;
+    margin-top: 550px;
+}
